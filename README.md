@@ -161,15 +161,18 @@ else:
 ## Output:
 OUTPUT LINEAR SEARCH
 
-![search.png](./search1.png)
+![search1](https://user-images.githubusercontent.com/119477817/215266623-3d4ed0de-91ed-49d7-807e-765c8cde1205.png)
+
 
 
 OUTPUT FOR BINARY SEARCH USING ITERATIVE METHOD
 
-![search.png](./search2.png)
+![search2](https://user-images.githubusercontent.com/119477817/215266651-17b18431-af30-4b28-b9d0-3b0e9df7f40e.png)
+
 OUTPUT FOR BINARY SEARCH USING ITERATIVE METHOD
 
-![search.png](./search3.png)
+![search3](https://user-images.githubusercontent.com/119477817/215266665-187ecc2e-f17f-4245-a4db-2c938e874c3a.png)
+
 
 
 
